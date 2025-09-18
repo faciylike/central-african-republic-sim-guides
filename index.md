@@ -68,3 +68,10 @@ layout: default
 
 　　最后别忘了，无论是物理SIM卡还是eSIM，保持联系固然重要，但偶尔断开连接，或许才是来中非旅行的真正意义所在。
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Central African Republic eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/central-african-republic-data-plans)
